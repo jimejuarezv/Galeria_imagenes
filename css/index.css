@@ -1,0 +1,211 @@
+.pantalla{
+    width: 42.8rem;
+    height: 92.6rem;
+    background-color: whitesmoke;
+    margin: auto;
+}
+.menu{
+    float: left;
+    width: 3.7rem;
+    height: 3.3rem;
+    margin-left: 4.2rem;
+    margin-top: 3.1rem;
+}
+.menu img{
+    width: 3.7rem;
+    height: 3.3rem;
+    cursor: pointer;
+}
+.titulo{
+    float: left;
+    width: 25rem;
+    height: 5.2rem;
+    position: absolute;
+    margin-left: 11.7rem;
+    margin-top: 3.8rem;
+    text-align: start;
+    
+}
+.titulo h1{ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.2rem;
+    line-height: 2.7rem;
+}
+.parte1{
+    position: absolute;
+    margin-top: 13.6rem;
+    width: 43.6rem;
+    height: 34.3rem;
+}
+.paisaje1{
+    position: absolute;
+    width: 18.1rem;
+    height: 30.1rem;
+    background-image: url(../img/paisajeIdia1.png);
+    background-size:cover;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+    margin-left: 2.4rem;
+}
+.paisaje1 div{
+    float: left;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 24.4rem;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.paisaje1 div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.paisaje2{
+    position: absolute;
+    width: 18.1rem;
+    height: 30.1rem;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+    background-image: url(../img/paisajeChina1.png);
+    background-size: cover;
+    margin-left: 22.3rem;
+}
+.paisaje2 div{
+    float: left;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 24.4rem;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.paisaje2 div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.parte2{
+    position: absolute;
+    margin-top: 45.5rem;
+    width: 43.6rem;
+    height: 34.3rem;
+}
+.paisaje3{
+    position: absolute;
+    background-image: url(../img/paisajeIdia1.png);
+    background-position:left;
+    width: 18.1rem;
+    height: 13.5rem;
+    margin-left: 2.4rem;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+}
+.paisaje3 div{
+    float: left;
+    margin-top: 7.8rem;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.paisaje3 div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.paisaje4{
+    position: absolute;
+    background-image: url(../img/paisajeIdia1.png);
+    background-position:left;
+    width: 18.1rem;
+    height: 14.4rem;
+    margin-left: 2.4rem;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+    margin-top: 15.6rem;
+}
+.paisaje4 div{
+    float: left;
+    margin-top: 7.8rem;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.paisaje4 div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.paisaje5{
+    position: absolute;
+    background-image: url(../img/paisajeChina1.png);
+    background-size: cover;
+    width: 18.1rem;
+    height: 30.1rem;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 17px;
+    margin-left: 22.3rem;
+}
+.paisaje5 div{
+    float: left;
+    width: 16.2rem;
+    height: 2.6rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 24.4rem;
+    margin-left: 1rem;
+color: #FFFFFF;
+}
+.paisaje5 div h2{
+    font-size: 1.3rem;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    line-height: 17px;
+    margin-top: 0.5rem;
+}
+.agregar{
+    width: 5rem;
+    height: 5rem;
+    float: right;
+    margin-right: 2.9rem;
+    margin-top: 83.4rem;
+    cursor: pointer;
+}
